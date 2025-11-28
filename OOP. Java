@@ -1,5 +1,4 @@
-# Harshal-Dipak-Chaudhari
-
+# OOP. java
 class Animal{
     void sound(){
         System.out.println("Animals make sounds");
